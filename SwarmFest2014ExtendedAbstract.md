@@ -1,6 +1,6 @@
-Crypto-economic Design: A Proposed Agent-based Modeling Effort
+Crypto-economic Design: A Proposed Agent-Based Modeling Effort
 
-By Dave Babbitt and Joel Dietz
+By Dave Babbitt, Northwestern University, M.S. (2014, expected) and Joel Dietz, University of Pennsylvania, M.A.
 
 A crypto-economy is an economic system which is 1) not defined by geographic location, political structure or legal system, and 2) uses cryptographically secure behavior-shaping constraints in place of trusted third parties. The economic agents in these systems can be human-controlled clients and autonomous organizations or contracts. The prices of transacted goods and services in these economies are expressed in a built-in money-like informational commodity and all transactions are typically recorded in a public ledger.
 
