@@ -2,7 +2,7 @@ Crypto-economic Design: A Proposed Agent-Based Modeling Effort
 
 By Dave Babbitt, Northwestern University, M.S. (2014, expected) and Joel Dietz, University of Pennsylvania, M.A.
 
-A crypto-economy is an economic system which is 1) not defined by geographic location, political structure or legal system, and 2) uses cryptographic techniques to prevent economic agents from cheating (as apposed to using trusted third parties). The economic agents in these systems can be human-controlled clients and autonomous organizations or contracts. The prices of transacted goods and services in these economies are expressed in a built-in money-like informational commodity and all transactions are typically recorded in a public ledger.
+A crypto-economy is an economic system which is 1) not defined by geographic location, political structure or legal system, and 2) uses cryptographic techniques to prevent economic agents from cheating (instead of using trusted third parties). The economic agents in these systems can be human-controlled clients and autonomous organizations or contracts. The prices of transacted goods and services in these economies are expressed in a built-in money-like informational commodity and all transactions are typically recorded in a public ledger.
 
 They are important because they eliminate "bridging" social capital as a necessary precondition for successful economic development in that you no longer have to trust your valuables to strangers.
 
@@ -12,7 +12,7 @@ Crypto-economies have more than a need for software and security testing - they 
 
 Economic analysis of crypto-economies exposes various public goods issues that typically happen to a communal effort in danger of being lobbied by special interest groups.  These public goods issues include 1) the financial incentives for operating a centralized mining pool, 2) the centralization of infrastructure without the benefits of centralization (i.e., lower transaction costs, efficiencies of scale), and 3) the lack of financial incentives for working as a developer.
 
-Capturing the salient aspects of the crypto-economic system is a matter of dividing the economic agents into clusters. The speculators and miscreants can be modeled as standard profit-seeking economic agents. The hoarders and crazies are even simpler to model. In addition, the open code sources of crypto-currencies can be transliterated into your ABMs.
+Capturing the salient aspects of the crypto-economic system is a matter of dividing the economic agents into clusters. The speculators and miscreants, for instance, can be modeled as standard profit-seeking economic agents. And the open code sources of crypto-currencies can be written almost character for character into the agents built for the test.
 
 The altruists and hostiles are the hardest clusters to model. The altruists who create the crypto-economy have grown up in an environment of abundance and are a little tone deaf to the economics of scarcity. They treat them like they are collectables - like a My Little Pony for anti-central banking - and create a story around them as some sort of self-projection of how they want the world to see them.  This behavior can all be modeled with social network cascades augmented by the media hype cycle. The hostiles are custom-made as security exploits are theoretically discovered.
 
